@@ -1,52 +1,49 @@
 ---
-title: "C'thulhu Resume"
+title: "David Fox Resume"
 layout: resume
 ---
 
-# C'thulhu
+# David Fox
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+> Long time Unix/Linux hacker.
 
 ## Education
 
-### **Withering Madness University** Planet Vhoorl
+### Yes, lots!
 
-**Major:** Public Relations
+**Major:** Electical Engineering
 
-**Minor:** Scale Tending
+**Minor:** Spanish 
+
+**Additional Courses:** Lots of CS 
 
 ## Skills
 
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
+- Linux Systems
+  - RedHat/CentOS/Fedora, Debian/Ubuntu
+- HPC Systems
+  - Linux clusters
+  - IBM Clusters
+  - GPFS
+  - Lustre
+  - Infiniband
+- Storage Systems
+  - NetApp
+    - FAS
+    - E-series
+  - DDN
+  - VAST Data
+- Containers/Virtualization
+  - Docker/Podman
+  - Kubenetes/Openshift
+  - KVM
+    - libvirt
+    - RHEV/ovirt
+    - Openstack
+    - Proxmox 
+  
 
 ## Links
+Original link
 
 <a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
