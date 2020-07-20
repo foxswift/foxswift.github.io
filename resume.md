@@ -19,21 +19,24 @@ layout: resume
 
 ## Skills
 
-- Linux Systems
+### Linux Systems
   - RedHat/CentOS/Fedora, Debian/Ubuntu
-- HPC Systems
+
+### HPC Systems
   - Linux clusters
   - IBM Clusters
   - GPFS
   - Lustre
   - Infiniband
-- Storage Systems
+
+### Storage Systems
   - NetApp
     - FAS
     - E-series
   - DDN
   - VAST Data
-- Containers/Virtualization
+
+### Containers/Virtualization
   - Docker/Podman
   - Kubenetes/Openshift
   - KVM
