@@ -30,20 +30,14 @@ layout: resume
   - Infiniband
 
 ### Storage Systems
-#### NetApp
-    - FAS
-    - E-series
+  - NetApp FAS E-series
   - DDN
   - VAST Data
 
 ### Containers/Virtualization
   - Docker/Podman
   - Kubenetes/Openshift
-#### KVM
-    - libvirt
-    - RHEV/ovirt
-    - Openstack
-    - Proxmox 
+  - KVM libvirt RHEV/ovirt Openstack Proxmox 
   
 
 ## Links
