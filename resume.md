@@ -30,7 +30,7 @@ layout: resume
   - Infiniband
 
 ### Storage Systems
-  - NetApp
+#### NetApp
     - FAS
     - E-series
   - DDN
@@ -39,7 +39,7 @@ layout: resume
 ### Containers/Virtualization
   - Docker/Podman
   - Kubenetes/Openshift
-  - KVM
+#### KVM
     - libvirt
     - RHEV/ovirt
     - Openstack
