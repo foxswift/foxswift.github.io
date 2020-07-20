@@ -13,8 +13,6 @@ layout: resume
 
 **Major:** Electical Engineering
 
-**Minor:** Spanish 
-
 **Additional Courses:** Lots of CS 
 
 ## Skills
@@ -33,6 +31,7 @@ layout: resume
   - NetApp FAS E-series
   - DDN
   - VAST Data
+  - ZFS
 
 ### **Containers/Virtualization**
   - Docker/Podman
